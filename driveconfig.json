@@ -19,5 +19,26 @@
     },
     "keywords": ["q","b", {"test": "owow"}, 1],
     "path" : "/virtual_storage"
+  },
+  {
+    "tag" : "D:",
+    "username" : 
+    {
+      "required" : "true",
+      "=" : "noom"
+    },
+    "password" :
+    {
+      "required" : "true",
+      "encrypt" : "true",
+      "=" : "naelc"
+    },
+    "pin" :
+    {
+      "required" : "true",
+      "=" : 22558855
+    },
+    "keywords": ["q","b", {"test": "owow"}, 1],
+    "path" : "/virtual_storage"
   }
 ]
