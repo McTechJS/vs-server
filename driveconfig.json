@@ -1,0 +1,23 @@
+[
+  {
+    "tag" : "C:",
+    "username" : 
+    {
+      "required" : "true",
+      "=" : "moon"
+    },
+    "password" :
+    {
+      "required" : "true",
+      "encrypt" : "true",
+      "=" : "clean"
+    },
+    "pin" :
+    {
+      "required" : "true",
+      "=" : 1122345
+    },
+    "keywords": ["q","b", {"test": "owow"}, 1],
+    "path" : "/virtual_storage"
+  }
+]
